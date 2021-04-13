@@ -10,6 +10,7 @@
 
 There are very few people who begin and end their careers in one company. Most people move on after a time, or the company forces them to move on with an involuntary termination. People leaving organizations seems like a quite straightforward matter, but there is a lot to unpack with employee attrition.
 
+RandomForest Classifier and Logistic Regression having an accuracy of more than 85%. At the end, I've used tensorflow model to predict the attrition. As everyone knows that, Tensorflow is the most popular framework for deep learning by Google, and it has a wide range of applications.
 Based on the dataset the model can potentially predict the attrition of the employee.
 
 Thank you!!!
