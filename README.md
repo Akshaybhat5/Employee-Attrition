@@ -9,3 +9,7 @@
 <img width="374" alt="Screenshot 2021-04-13 at 11 18 55 AM" src="https://user-images.githubusercontent.com/35285632/114503485-024ccd00-9c4b-11eb-8a4c-099f2893d5a5.png">
 
 There are very few people who begin and end their careers in one company. Most people move on after a time, or the company forces them to move on with an involuntary termination. People leaving organizations seems like a quite straightforward matter, but there is a lot to unpack with employee attrition.
+
+Based on the dataset the model can potentially predict the attrition of the employee.
+
+Thank you!!!
