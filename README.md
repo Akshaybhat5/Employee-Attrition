@@ -1,4 +1,6 @@
 # Employee-Attrition
+![jk](https://user-images.githubusercontent.com/35285632/114503604-37f1b600-9c4b-11eb-9686-43c6a5a63dbd.png)
+
 
 <img width="1067" alt="Screenshot 2021-04-13 at 11 19 40 AM" src="https://user-images.githubusercontent.com/35285632/114503456-f9f49200-9c4a-11eb-98fe-bc8de771f695.png">
 <img width="1315" alt="Screenshot 2021-04-13 at 11 19 32 AM" src="https://user-images.githubusercontent.com/35285632/114503467-fcef8280-9c4a-11eb-8a84-9ad411e3b799.png">
